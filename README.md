@@ -4,7 +4,7 @@
 - 📘 Formando em análise e desenvolvimento de sistemas
 - 📩 Contate-me no email: luisgustavodev71@gmail.com
 
- <div style="display: grid; grid-template-columns: 50% 1fr">
+ <div style="display: grid; grid-template-columns: 50%, 50%">
    <a href="https://github.com/Luis-GustavoDev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-GustavoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-GustavoDev&layout=compact&langs_count=6&theme=tokyonight"/>
