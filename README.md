@@ -1,7 +1,7 @@
 Bem-vindo(a) ao perfil do Luis-GustavoDev 😁
 
-- 🌱 Estou estudando Front-end com React e Back-end com Java
-- 📘 Formando em análise e desenvolvimento de sistemas
+- 🌱 Estou estudando Front-end com React e TypeScript, juntamente com Back-end em Java
+- 📘 Formado em análise e desenvolvimento de sistemas
 - 📩 Contate-me no email: luisgustavodev71@gmail.com
 
  <div style="display: grid; grid-template-columns: 50% 50%"; max-width: 100%;>
