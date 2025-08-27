@@ -1,4 +1,4 @@
-Bem-vindo(a) ao perfil do luis-gustavo836 😁
+Bem-vindo(a) ao perfil do Luis-GustavoDev 😁
 
 - 🌱 Estou estudando Front-end com React e Back-end com Java
 - 📘 Formando em análise e desenvolvimento de sistemas
