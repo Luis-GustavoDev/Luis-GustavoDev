@@ -4,17 +4,12 @@ Bem-vindo(a) ao perfil do Luis-GustavoDev 😁
 - 📘 Formado em análise e desenvolvimento de sistemas
 - 📩 Contate-me no email: luisgustavodev71@gmail.com
 
- <div style="display: grid; grid-template-columns: 50% 50%"; max-width: 100%;>
-   <a href="https://github.com/Luis-GustavoDev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-GustavoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-GustavoDev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
  
